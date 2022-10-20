@@ -10,13 +10,12 @@ O objetivo principal do projeto é definido por buscar a melhor solução para a
 Neste projeto apenas os comprimentos das barras da Base da Treliça (Barras 1,2,3,4) não podem ser alteradas, permanecendo em 2(m);
 As principais alterações no comprimento das barras ocorre nas barras verticais (Barras 6, 8 e 10), podendo possuir os seguintes valores: 1m, 2m ou 3m.
 Obs: As Barras em diagonais acompanham a mudança de comprimento das barras verticais.
-
-\n\n
+<p>
+<p>
 
 A segunda busca está na busca da melhor area da sessão transversal das barras. Onde cada barra pode possuir esta area com os seguintes valores: 3x10^{-3}m, 4x10^{-3}, 5x10^{-3}.
 
-
-\n
-\n
+<p>
+<p>
 
 A saída do algoritmo é a melhor solução encontrada seguindo a Função Objetivo: ( 1 / ((0.1 * peso) + (Deformação no Ponto C)))
